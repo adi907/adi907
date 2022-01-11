@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Aditya
-- 👀 I’m interested in Machine Learning.
-- 🌱 I’m currently learning Java, Data structures and Algorithms.
+- 👋 Hi, I’m Aditya, a IInd year student pursuing B.Tech[CSE] from Manipal University, Jaipur
+- 👀 I’m interested in App Development.
+- 🌱 I’m currently learning Kotlin, Data structures and Algorithms[C++].
 - 📫 You can reach me via my mail: aditya.209301509@muj.manipal.edu
 
 <!---
