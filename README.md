@@ -1,9 +1,4 @@
-
-
-  <!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
-
-<!-- <img src="https://raw.githubusercontent.com/radioactive11/radioactive11/master/images/header.png" width="100%" height="80%"> -->
-<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%;">
+<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
 
 <br>
 
@@ -26,21 +21,21 @@ I have dedicated myself in Web development field with experience in building web
   
 <h4 align='center'><strong>Frontend</strong></h4>
 <p align='center'>
-<img alt="TF" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=pug&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/css3-2965f1?style=for-the-badge&logo=css&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Pug-73533E?style=for-the-badge&logo=pug&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/sass-cd6799?style=for-the-badge&logo=sass&logoColor=white">
 
 </p>
 
 <h4 align='center'><strong>Backend</strong></h4>
 <p align='center'>
   
-<img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Node.js-44883e?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/flask-FF0000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
   
 </p>
