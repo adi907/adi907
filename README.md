@@ -1,3 +1,7 @@
+
+
+  <!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
+
 <img src="https://raw.githubusercontent.com/radioactive11/radioactive11/master/images/header.png" width="100%" height="80%">
 
 <br>
@@ -11,9 +15,8 @@ I have dedicated myself in Web development field with experience in building web
 </p>
 
 <h3 align='center'>Things I code with:
+
 <h4 align='center'><strong>Languages</strong></h4>
-
-
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>  
 <img alt="TF" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
@@ -22,12 +25,24 @@ I have dedicated myself in Web development field with experience in building web
   
 <h4 align='center'><strong>Frontend</strong></h4>
 <p align='center'>
+<img alt="TF" src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/css3-000000?style=for-the-badge&logo=css&logoColor=white"/>
-  
+<img alt="TF" src="https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Pug-000000?style=for-the-badge&logo=pug&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/sass-000000?style=for-the-badge&logo=sass&logoColor=white">
+
 </p>
 
-<br>
-
+<h4 align='center'><strong>Backend</strong></h4>
+<p align='center'>
+  
+<img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+  
+</p>
 
 <h4 align='center'><strong>Database</strong></h4>
 <p align='center'>
@@ -35,13 +50,6 @@ I have dedicated myself in Web development field with experience in building web
 <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </p>
 
-<h4 align='center'><strong>Backend</strong></h4>
-<p align='center'>
-<img alt="TF" src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
-  
-</p>
 
 
 <p align="center">
@@ -50,7 +58,7 @@ I have dedicated myself in Web development field with experience in building web
 
 
 <p align="center">
-  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=radioactive11&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
+  <img align='center' src="https://activity-graph.herokuapp.com/graph?username=adi907&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <h4 align='center'><strong>Tools I use: </strong>
@@ -63,12 +71,10 @@ I have dedicated myself in Web development field with experience in building web
 
 <h4 align="center"><strong>Contact Me </strong>
 <p align="center">
- <a href="https://t.me/radioactive11"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> <a href="https://www.instagram.com/this_is_radioactive11/"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+ <a href="https://t.me/adii907" target="_blank"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> 
+ <a href="https://www.instagram.com/_adi907_._" target="_blank"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
  <br>
 <p align="center">
 <a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
 </p>
-
- 
-<script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
