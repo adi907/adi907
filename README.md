@@ -3,7 +3,7 @@
   <!-- <h1><img src="https://slackmojis.com/emojis/4594-blob-wave/download" width="30"/> Hey, nice to see you.</h1> -->
 
 <!-- <img src="https://raw.githubusercontent.com/radioactive11/radioactive11/master/images/header.png" width="100%" height="80%"> -->
-<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 50%;">
+<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display: block;margin-left: auto;margin-right: auto;width: 100%;">
 
 <br>
 
