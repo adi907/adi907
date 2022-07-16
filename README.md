@@ -2,7 +2,7 @@
 
 <br>
 
-<h3 align='center'>SWAGATAM!</h3>
+<h3 align='center'>! SWAGATAM !</h3>
 </br> 
 <p align='center'>
 I'm Aditya Sharma, Web Developer from <b>New Delhi, India</b>, currently studying Computer Science from Manipal University Jaipur </p>
