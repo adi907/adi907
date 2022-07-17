@@ -50,6 +50,8 @@ I have dedicated myself in Web development field with experience in building web
 
 <p align="center">
   <a href="https://github.com/adi907/YelpCamp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=YelpCamp&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/adi907/Cp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Coding-Ninjas-Data-Structures"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Coding-Ninjas-Data-Structures&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
 </p>
 
 
