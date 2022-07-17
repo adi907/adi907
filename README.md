@@ -49,7 +49,7 @@ I have dedicated myself in Web development field with experience in building web
 
 
 <p align="center">
-  <a href="https://github.com/adi907/YelpCamp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=radioactive11&repo=healthbridge&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
+  <a href="https://github.com/adi907/YelpCamp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=YelpCamp&theme=outrun&hide_border=true&show_icons=true" alt="github-readme-stats"></a>
 </p>
 
 
@@ -70,7 +70,8 @@ I have dedicated myself in Web development field with experience in building web
  <a href="https://t.me/adii907" target="_blank"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> 
  <a href="https://www.instagram.com/_adi907_._" target="_blank"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
- <br>
+<!--  <br>
 <p align="center">
 <a href="https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV?si=fb827f29982d46ab" target="_blank"><img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="500" align/></a>
 </p>
+ -->
