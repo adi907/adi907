@@ -50,11 +50,12 @@ I have dedicated myself in Web development field with experience in building web
 <div>
 <p style="text-align:center;">
 
-  <a href="https://github.com/adi907/Cp"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-    <a href="https://github.com/adi907/Dance-Website"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/Snake-Game"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Calculator&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/Clock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Clock&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Cp"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+    <a href="https://github.com/adi907/Dance-Website"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Snake-Game"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Calculator"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Calculator&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Clock"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Clock&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Myntra_clone"><img width="300" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   
 </p>
 </div>
