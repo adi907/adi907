@@ -55,7 +55,7 @@ I have dedicated myself in Web development field with experience in building web
   <a href="https://github.com/adi907/Snake-Game"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Calculator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Calculator&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Clock"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Clock&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
- 
+  
 </p>
 
 
