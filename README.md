@@ -47,8 +47,7 @@ I have dedicated myself in Web development field with experience in building web
 </p>
 
 
-<div>
-<p style="text-align:center;">
+<div style="display:flex;justify-content:center;align-items:center;">
 
   <a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
     <a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
@@ -56,8 +55,7 @@ I have dedicated myself in Web development field with experience in building web
   <a href="https://github.com/adi907/Calculator"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Calculator&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Clock"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Clock&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Myntra_clone"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  
-</p>
+ 
 </div>
 
 <p align="center">
@@ -66,8 +64,7 @@ I have dedicated myself in Web development field with experience in building web
 
 <h4 align='center'><strong>Tools I use: </strong>
 <p  align='center'>
-<img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
 <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
