@@ -24,7 +24,7 @@ I have dedicated myself in Web development field with experience in building web
 <h4 align='center'><strong>Frontend</strong></h4>
 <p align='center'>
 <img alt="TF" src="https://img.shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/CSS-f06529?style=for-the-badge&logo=css3&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/javascript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/Pug-73533E?style=for-the-badge&logo=pug&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white">
