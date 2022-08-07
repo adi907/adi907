@@ -49,7 +49,7 @@ I have dedicated myself in Web development field with experience in building web
 </p>
 
 
-<div style="display:flex;justify-content:center;align-items:center;">
+<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
 
   <a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
     <a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
