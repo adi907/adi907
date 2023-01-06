@@ -60,9 +60,9 @@ I have dedicated myself in Web development field with experience in building web
  
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=adi907&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
+</p> -->
 
 <h4 align='center'><strong>Tools I use: </strong>
 <p  align='center'>
