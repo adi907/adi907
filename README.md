@@ -44,21 +44,55 @@ I have dedicated myself in Web development field with experience in building web
 
 <h4 align='center'><strong>Database</strong></h4>
 <p align='center'>
-<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/PostgresSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/> 
-<img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </p>
+  
+  
+ <style>
+  .table {
+    display: table;
+    width: 100%;
+  }
+
+  .table-row {
+    display: table-row;
+  }
+
+  .table-cell {
+    display: table-cell;
+    padding: 10px;
+    border: 1px solid black;
+  }
+</style>
 
 
-<div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
+ <div class="table">
+  <div class="table-row">
+    <div class="table-cell"><a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+</div>
+    <div class="table-cell"><a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div class="table-cell"><a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+  </div>
+  <div class="table-row">
+    <div class="table-cell"><a href="https://github.com/adi907/Typing-speed-tester"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Typing-speed-tester&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div class="table-cell"><a href="https://github.com/adi907/Myntra_clone"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div class="table-cell"><a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+  </div>
+</div>
+  
+  
 
+<!-- <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
+
+  <a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
     <a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Typing-speed-tester"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Typing-speed-tester&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/tic_tac_toe"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=tic_tac_toe&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Myntra_clone"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
- 
-</div>
+  <a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+</div> -->
 
 <!-- <p align="center">
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=adi907&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
