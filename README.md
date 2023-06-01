@@ -1,13 +1,13 @@
-<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display:flex; justify-content:center;align-items:center;width: 75%;">
+<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="width: 95%;">
 
 <br>
 
 <h3 align='center'>🙏 SWAGATAM 🙏</h3>
 </br> 
 <p align='center'>
-I'm Aditya Sharma, Web Developer from <b>New Delhi, India</b>, currently studying Computer Science from Manipal University Jaipur </p>
+I'm Aditya Sharma, Tech Newbie from <b>New Delhi, India</b>, currently in the final year of pursuing Computer Science from Manipal University Jaipur </p>
 <p align='center'>
-I have dedicated myself in Web development field with experience in building websites and web applications. 
+I like Competitive Programming and love to apply the concepts I learn to create Projects. I like to explore various fields like Web Development, Machine Learning and Automation. I also have some experience in interacting with tools like Power Apps, Power Automate, Power BI, Power Pages and Dataverse.
 </p>
 
 <h3 align='center'>Things I code with:
