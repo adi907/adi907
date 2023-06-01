@@ -1,4 +1,4 @@
-<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="width: 75%;">
+<img src="https://images.hdqwalls.com/download/a-pink-sunset-4k-fo-1400x1050.jpg" style="display:flex; justify-content:center;align-items:center;width: 75%;">
 
 <br>
 
