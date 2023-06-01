@@ -49,36 +49,18 @@ I have dedicated myself in Web development field with experience in building web
 <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
 </p>
   
-  
- <style>
-  .table {
-    display: table;
-    width: 100%;
-  }
 
-  .table-row {
-    display: table-row;
-  }
-
-  .table-cell {
-    display: table-cell;
-    padding: 10px;
-    border: 1px solid black;
-  }
-</style>
-
-
- <div class="table">
-  <div class="table-row">
-    <div class="table-cell"><a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+ <div style="display:table;width:100%;">
+  <div style="display:table-row;">
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
 </div>
-    <div class="table-cell"><a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
-    <div class="table-cell"><a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/Dance-Website"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Dance-Website&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
   </div>
   <div class="table-row">
-    <div class="table-cell"><a href="https://github.com/adi907/Typing-speed-tester"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Typing-speed-tester&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
-    <div class="table-cell"><a href="https://github.com/adi907/Myntra_clone"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
-    <div class="table-cell"><a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/Typing-speed-tester"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Typing-speed-tester&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/Myntra_clone"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Myntra_clone&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
+    <div style="display:table-cell;padding:10px;border: 1px solid black;"><a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a></div>
   </div>
 </div>
   
