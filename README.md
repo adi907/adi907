@@ -29,7 +29,8 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 <img alt="TF" src="https://img.shields.io/badge/Pug-73533E?style=for-the-badge&logo=pug&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=React&logoColor=white">
 <img alt="TF" src="https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/sass-cd6799?style=for-the-badge&logo=sass&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Power%20Pages-A493E7?style=for-the-badge&logo=powerpages&logoColor=white">
+
 
 </p>
 
@@ -37,8 +38,8 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 <p align='center'>
   
 <img alt="TF" src="https://img.shields.io/badge/Node.js-44883e?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="TF" src="https://img.shields.io/badge/flask-FF0000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+<img alt="TF" src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white">
   
 </p>
 
@@ -47,6 +48,7 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 <img alt="TF" src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/Dataverse-088142?style=for-the-badge&logo=dataverse&logoColor=white"/> 
 </p>
   
 
@@ -67,7 +69,8 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 <h4 align='center'><strong>Tools I use: </strong>
 <p  align='center'>
 <img alt="TF" src="https://img.shields.io/badge/VsCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> 
+<img alt="TF" src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img alt="TF" src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
 <img alt="TF" src="https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoColor=white"/> 
 </p>
 
