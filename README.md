@@ -77,7 +77,7 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 <h4 align="center"><strong>Contact Me </strong>
 <p align="center">
  <a href="https://t.me/adii907" target="_blank"><img alt="TF" src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/><a> 
- <a href="https://www.instagram.com/_adi907_._" target="_blank"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
+ <a href="https://www.instagram.com/adii907_" target="_blank"><img alt="TF" src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><a> 
 </p>
 <!--  <br>
 <p align="center">
