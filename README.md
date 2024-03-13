@@ -54,17 +54,17 @@ I like Competitive Programming and love to apply the concepts I learn to create 
 
 <div style="display:flex;flex-wrap:wrap;justify-content:center;align-items:center;">
 
-  <a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Urban-Haven"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Urban-Haven&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Typing-speed-tester"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Typing-speed-tester&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-  <a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/Cp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/ username=adi907&repo=Cp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/weatherApp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=weatherApp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
+  <a href="https://github.com/adi907/ImageDeblurring"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=ImageDeblurring&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
   <a href="https://github.com/adi907/Snake-Game"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=Snake-Game&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
-    <a href="https://github.com/adi907/toDoApp"><img width="325" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=adi907&repo=toDoApp&theme=outrun&hide_border=true&show_icons=true%22%20alt=%22github-readme-stats"></a>
 </div>
 
-<!-- <p align="center">
+<p align="center">
   <img align='center' src="https://activity-graph.herokuapp.com/graph?username=adi907&theme=synthwave&bg_color=20232a&hide_border=true" width="100%"/>
-</p> -->
+</p>
 
 <h4 align='center'><strong>Tools I use: </strong>
 <p  align='center'>
