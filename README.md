@@ -4,11 +4,10 @@
 
 <h3 align='center'>🙏 SWAGATAM 🙏</h3>
 </br> 
-<p align='center'>
-I'm Aditya Sharma, Tech Newbie from <b>New Delhi, India</b>, currently in the final year of pursuing Computer Science from Manipal University Jaipur </p>
-<p align='center'>
-I like Competitive Programming and love to apply the concepts I learn to create Projects. I like to explore various fields like Web Development, Machine Learning and Automation. I also have some experience in interacting with tools like Power Apps, Power Automate, Power BI, Power Pages and Dataverse.
+
+<p align='center'>Hey there! 👋 I’m Aditya Sharma — a Specialist Programmer at Infosys, currently working on Helix, a large-scale healthcare platform for US-based clients. My work primarily revolves around developing clean, responsive, and scalable user interfaces using Angular.js, while collaborating closely with backend teams working on and PostgreSQL to deliver seamless, end-to-end solutions.
 </p>
+<p align='center'>When I’m not deep into code, you’ll probably find me exploring new tech frameworks, optimizing workflows, or experimenting with personal projects. I thrive in fast-paced environments, love taking on challenges, and am always eager to learn something new every day!</p>
 
 <h3 align='center'>Things I code with:
 
